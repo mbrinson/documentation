@@ -60,5 +60,6 @@
     * [Customize Themes](themes/customize_themes.md)
     * [Theme Structure](themes/theme_structure.md)
 * [Translations](translations/README.md)
+* [MAUTIC VARIABLES] (VARIABLES.MD)
 * Overview
 
